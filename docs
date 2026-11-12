@@ -1,2 +1,4 @@
 Requirements
-  
+We use the Pi 4 to debug the program from Option 2, using GPIO, main, void, and while
+Design
+The UI should be maintained to simple, organized, save data, and change capacity 
